@@ -1,0 +1,4 @@
+build.path.sourceFolder=TypeScript/src
+compiler.outputDirOption=WebContent/WEB-INF
+compiler.outputFileOption=
+eclipse.preferences.version=1
