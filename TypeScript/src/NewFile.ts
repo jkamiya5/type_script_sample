@@ -1,5 +1,5 @@
 module Greeting{
-    export class HelloWorld{
+    export class HelloWorld1{
         constructor(private text : string){
         }
         say() : void{
@@ -7,5 +7,5 @@ module Greeting{
         }
     }
 }
-var HelloWorld : Greeting.HelloWorld = new Greeting.HelloWorld("Hello, World!");
-HelloWorld.say();
+var HelloWorld1 : Greeting.HelloWorld1 = new Greeting.HelloWorld1("Hello, World!");
+HelloWorld1.say();
